@@ -1,1 +1,1 @@
-# How to Resolve Git Merge Conflict
+# How to Resolve Git Conflict
